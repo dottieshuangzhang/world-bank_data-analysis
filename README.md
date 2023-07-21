@@ -1,8 +1,7 @@
 # world-bank_data-analysis
 
 <details>
-  <summary>The title of the image group</summary><details>
-  <img src="blob/main/world%20bank%20data.PNG" name="CO2 per capita">
+  <img src="[blob/main/world%20bank%20data.PNG](https://github.com/dottieshuangzhang/world-bank_data-analysis/blob/main/world%20bank%20data.PNG)" name="CO2 per capita">
 </details>
   
 Exploratory Data Analysis on Development Indicators and CO2 Emission
