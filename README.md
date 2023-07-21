@@ -1,8 +1,6 @@
-# world-bank_data-analysis
+# Exploratory Data Analysis on Development Indicators and CO<sub>2</sub> Emission
 
 <img src="https://github.com/dottieshuangzhang/world-bank_data-analysis/blob/main/world%20bank%20data.PNG" name="CO2 per capita">
-  
-Exploratory Data Analysis on Development Indicators and CO2 Emission
 
 The World Bank database is a massive repository socioeconomic, financial, environmental, and health-related data. In this analysis, we have collected the data of the following indicators: 'GNI per capita', 'Life expectancy', 'Compulsory education duration', 'Tertiary enrollment', 'CO2 emission per capita' and 'Total natural resources rent', for more than 150 countries across 40 years. The CO2 emission data is available from 1990 to 2019. Data is collected from the World Bank V2 Indicators API (No authentication is required).
 https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation
